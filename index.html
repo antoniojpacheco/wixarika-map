@@ -1,28 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wixárika Map</title>
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Mapbox CSS -->
+    <link
+      rel="stylesheet"
+      href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css"
+    />
 
-<title>Wixárika Map</title>
+    <!-- My CSS -->
+    <link rel="stylesheet" href="./style.css" />
+  </head>
 
-<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css">
-<link rel="stylesheet" href="style.css">
+  <body>
 
-</head>
+      <!-- Map container -->
+    <div id="map"></div>
 
-<body>
+    <!-- Header overlay -->
+    <div id="header">
+      <h1>Wixárika Map</h1>
+      <h2>Map of sites</h2>
+    </div>
 
-<div id="map"></div>
+    <!-- Mapbox JS -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
 
-<div class="header">
-  <h1>Wixárika Map</h1>
-  <p>Map of sites</p>
-</div>
-
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
-<script src="script.js"></script>
-
-</body>
+    <!-- My JS -->
+    <script src="./script.js"></script>
+  </body>
 </html>
