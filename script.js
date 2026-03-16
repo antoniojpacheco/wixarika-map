@@ -33,11 +33,11 @@
           // Create popup content using the properties from the data
            const popupContent = `
               <div>
-                  <h3>${properties["Places and Items"] || ""}</h3>
-                  <p><strong>Other names:</strong> ${properties["Other names"] || ""}</p>
-                  <p><strong>Ecological/Environmental:</strong> ${properties["Ecological/Environmental"] || ""}</p>
-                  <p><strong>Cultural Elements:</strong> ${properties["Cultural Elements"] || ""}</p>
-                  <p><strong>Socio-Political:</strong> ${properties["Socio-Political"] || ""}</p>
+                  <h3>${properties.place_name}</h3>
+                  <p><strong>Other names:</strong> ${properties.other_names}</p>
+                  <p><strong>Ecological/Environmental:</strong> ${properties.ecological_environmental}</p>
+                  <p><strong>Cultural Elements:</strong> ${properties.cultural_elements}</p>
+                  <p><strong>Socio-Political:</strong> ${properties.socio_political}</p>
               </div>
     `      ;
         // Build and attach popup to coordinates
