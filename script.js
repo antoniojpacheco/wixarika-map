@@ -3,7 +3,7 @@
   const map = new mapboxgl.Map({
           container: 'map', // container ID
           style: 'mapbox://styles/antoniojpacheco/cmmsrdhbs001501sk3jjufd5f',
-          center: [-122.27, 37.8], // starting position [lng, lat]. Note that lat must be set between -90 and 90
+          center: [-100, 30], // starting position [lng, lat]. Note that lat must be set between -90 and 90
           zoom: 9 // starting zoom
       });
 
