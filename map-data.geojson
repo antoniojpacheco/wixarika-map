@@ -9,7 +9,7 @@
         "Ecological/Environmental": "One of several dams built along Santiago River since the 1980s. El Cajón Dam is just a few kilometers downriver. Located in a key area ecologically where there are vasts amounts of fresh water, mountains with biodiversity, and by...",
         "Cultural Elements": "N/A",
         "Socio-Political": "The dam displaced several Wixarika communities (many of these individuals would become residents of Colonia Zitakua in Tepic) and was built during the controversial Salinas de Gortari presidency",
-        "Image": " "
+        "Image": ""
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +24,7 @@
         "Ecological/Environmental": "A rare volcanic remnant in an area otherwise without volcanic arqueology. Was at one point ocean, there are shell remnants in the sierra of catorce",
         "Cultural Elements": "Important site of pilgrimage for the community of Tateikié and other Wixárika communities; a popular destination for new agers",
         "Socio-Political": "N/A",
-        "Image": " "
+        "Image": ""
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "Ecological/Environmental": "traverses central mexico up and through the US-Mx border",
         "Cultural Elements": "Graffitti/ migrants",
         "Socio-Political": "Movement of goods, post-NAFTA especially",
-        "Image": "'
+        "Image": ""
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
         "Ecological/Environmental": "Sierra of Catorce, site of colonial mining, forests continue to struggle to grow",
         "Cultural Elements": "Site where the sun was born after a boy sacrificed self",
         "Socio-Political": "Site of continued contested land use and First Majestic Silver mining project under moratorium",
-        "Image": " "
+        "Image": ""
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +69,7 @@
         "Ecological/Environmental": "Located near the endemic areas where peyote grows",
         "Cultural Elements": "Site of New Age tourism and Willies that take tourists to extract peyote",
         "Socio-Political": "Many of the land privatizations occurring in the name of peyote conservation are springing from negotiations with ejidatarios in this town and municipality",
-        "Image": "'
+        "Image": ""
       },
       "geometry": {
         "type": "Point",
@@ -80,80 +80,75 @@
       "type": "Feature",
       "properties": {
         "Places and Items": "Island of Mezcala",
-        "Address": "2086 Allston Way, Berkeley, CA",
-        "Architect + Date": "Benjamin G. McDougall (1909–13)",
-        "Link": "https://berkeleyheritage.com/berkeley_landmarks/shattuck_hotel.html",
-        "Designated": "16-May-83 & 9-Nov-87",
-        "Notes": "CA State Historic Resources Inventory Designation expanded in 1987 to include entire block.",
-        "Image": "https://en.wikipedia.org/wiki/Shattuck_Hotel#/media/File:Shattuck_Hotel.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.27022552490234, 37.86908721923828]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Landmark": "Thornburg/Normandy Village",
-        "Address": "1781 Spruce Street, Berkeley, CA",
-        "Architect + Date": "William Raymond Yelland (1926); Jack W. Thornburg (1927–1928); Charles E.J. Rogers (1941–1955)",
-        "Link": "https://berkeleyheritage.com/berkeley_landmarks/thornburg.html",
-        "Designated": "19-Dec-83",
-        "Notes": "CA State Historic Resources Inventory",
+        "Other names": "Xapawiyemetá",
+        "Ecological/Environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers",
+        "Cultural Elements": "A sacred place for the Wixarika and Coca communities; recently also a location of New Age ritual",
+        "Socio-Political": "Location of a colonial presidio that kept its prisoners in horrific conditions. The presidio was seized by independence insurgents in an epic battle that marks the beginning of Mexico's war of independence",
         "Image": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.26548767089844, 37.875938415527344]
+        "coordinates": [-103.024167, 20.290833]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Landmark": "Manasse-Block Tanning Co.",
-        "Address": "1300 Fourth Street, Berkeley, CA",
-        "Architect + Date": "(1898, 1905, 1906, 1922, 1937)",
-        "Link": "https://berkeleyheritage.com/berkeley_landmarks/manasse_block.html",
-        "Designated": "21-Apr-86",
-        "Notes": "",
-        "Image": "https://en.wikipedia.org/wiki/Manasse-Block_Tanning_Company#/media/File:Manasse-Block-001.JPG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3036419, 37.878723]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Landmark": "Kawneer Manufacturing Co.",
-        "Address": "2547 Eighth Street, Berkeley, CA",
-        "Architect + Date": "Chester H. Miller (1913); Alben Froberg (1947–1950)",
-        "Link": "https://berkeleyheritage.com/berkeley_landmarks/landmarks101-200.html",
-        "Designated": "21-Jul-86",
-        "Notes": "",
+        "Places and Items": "Island of the Scorpion/Isla de los Alacranes",
+        "Other names": "Xapawiyemetá",
+        "Ecological/Environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers. The island has long had thin environmental and cultural regulations but is now being brought into the management plans drafted as part of the Plan de Justicia Wixárika",
+        "Cultural Elements": "Since the late 20th century, the principal destination of Wixarika pilgrimages to Xapawiyemetá",
+        "Socio-Political": "Wixarika offerings are mixed with an increased presence of non-Indigenous "pilgrims" offerings. The xiriki (temple) has repeatedly burned and in May 2024, an obelisk was placed by the government to make more visible the place as a Wixarika sacred site",
         "Image": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.29235076904297, 37.85857391357422]
+        "coordinates": [-103.170000, 20.251389]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Landmark": "McCreary-Greer House",
-        "Address": "2318 Durant Avenue, Berkeley, CA",
-        "Architect + Date": "Cornelius S. McNally or Barker Estey [?] (1901)",
-        "Link": "https://berkeleyheritage.com/mccreary-greer.html",
-        "Designated": "21-Jul-86",
-        "Notes": "CA State Historic Resources Inventory",
+        "Places and Items": "Piedra Blanca, San Blas/ Waxiewe",
+        "Other names": "Waxiewe",
+        "Ecological/Environmental": "Site of some tourist development conflicts, very important ecosystem--also famously known for the "jejenes"--dust mite",
+        "Cultural Elements": "Pilgrimage site of the west for all communities, related to our Grandmother Ocean. Important for baptisms, related to the underworld and darkness, source of life",
+        "Socio-Political": "Small tourist hamlet with ocassional disputes over encroachment onto Waxiewe, the white island off the shore of San Blas. Recently declared a protected sacred site in Mexico's "Plan de Justicia"",
         "Image": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.26387023925781, 37.86717987060547]
+        "coordinates": [-105.301111, 21.529722
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Te'akata,
+        "Other names": "Birthpace of Grandfather Fire",
+        "Ecological/Environmental": "In the canyons of the Sierra madre",
+        "Cultural Elements": "A sacred site for all communities",
+        "Socio-Political": "Contentious as of lately because of intercommunal conflict",
+        "Image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.114167, 22.158889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Real de Catorce",
+        "Other names": "N/A",
+        "Ecological/Environmental": "Town founded in the early 19th century from colonial silver mining boom, today a site of religious tourism",
+        "Cultural Elements": "San Francisco de Asis/ Wixarika pilgrimages",
+        "Socio-Political: "N/A"
+        "Image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.886111, 23.690556]
       }
     }
   ]
