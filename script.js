@@ -4,7 +4,7 @@
           container: 'map', // container ID
           style: 'mapbox://styles/antoniojpacheco/cmmsrdhbs001501sk3jjufd5f',
           center: [-100, 30], // starting position [lng, lat]. Note that lat must be set between -90 and 90
-          zoom: 9 // starting zoom
+          zoom: 3 // starting zoom
       });
 
   map.on('load', function() {
