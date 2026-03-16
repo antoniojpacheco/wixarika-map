@@ -1,145 +1,145 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Aguamilpa Dam",
-        "Other names": "El Colorín, Colorado de la Mora, Salvador Allende (two Wixarika towns along periphery)",
-        "Ecological/Environmental": "One of several dams built along Santiago River since the 1980s. El Cajón Dam is just a few kilometers downriver. Located in a key area ecologically where there are vast amounts of fresh water, mountains with biodiversity.",
-        "Cultural Elements": "N/A",
-        "Socio-Political": "The dam displaced several Wixarika communities (many of these individuals would become residents of Colonia Zitakua in Tepic) and was built during the controversial Salinas de Gortari presidency"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.802500, 21.839167]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Bernalejo/Tamatsi Kauyumarie",
-        "Other names": "Tamatsi Kauyumarie",
-        "Ecological/Environmental": "A rare volcanic remnant in an area otherwise without volcanic archaeology. Was at one point ocean; there are shell remnants in the Sierra de Catorce.",
-        "Cultural Elements": "Important site of pilgrimage for the community of Tateikié and other Wixárika communities; a popular destination for new agers",
-        "Socio-Political": "N/A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-101.221667, 23.992500]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Kansas City Southern de Mexico (RR)",
-        "Other names": "la bestia",
-        "Ecological/Environmental": "Traverses central Mexico up and through the US-Mx border",
-        "Cultural Elements": "Graffiti / migrants",
-        "Socio-Political": "Movement of goods, post-NAFTA especially"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-100.487778, 28.713056]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Cerro del Quemado",
-        "Other names": "Reu'unax+ and Paritikemai",
-        "Ecological/Environmental": "Sierra of Catorce, site of colonial mining, forests continue to struggle to grow",
-        "Cultural Elements": "Site where the sun was born after a boy sacrificed himself",
-        "Socio-Political": "Site of continued contested land use and First Majestic Silver mining project under moratorium"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-100.913611, 23.674167]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Estación Wadley",
-        "Other names": "N/A",
-        "Ecological/Environmental": "Located near the endemic areas where peyote grows",
-        "Cultural Elements": "Site of New Age tourism and 'Willies' that take tourists to extract peyote",
-        "Socio-Political": "Many of the land privatizations occurring in the name of peyote conservation are springing from negotiations with ejidatarios in this town and municipality"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-100.987222, 23.611111]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Island of Mezcala",
-        "Other names": "Xapawiyemetá",
-        "Ecological/Environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers",
-        "Cultural Elements": "A sacred place for the Wixarika and Coca communities; recently also a location of New Age ritual",
-        "Socio-Political": "Location of a colonial presidio that kept its prisoners in horrific conditions. The presidio was seized by independence insurgents in a battle marking the beginning of Mexico's war of independence"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-103.024167, 20.290833]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Island of the Scorpion / Isla de los Alacranes",
-        "Other names": "Xapawiyemetá",
-        "Ecological/Environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers. The island is now being included in management plans under the Plan de Justicia Wixárika",
-        "Cultural Elements": "Since the late 20th century, the principal destination of Wixarika pilgrimages to Xapawiyemetá",
-        "Socio-Political": "Wixarika offerings are mixed with an increased presence of non-Indigenous \"pilgrims\" offerings. In May 2024, an obelisk was placed by the government to make visible the site as a Wixarika sacred place"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-103.170000, 20.251389]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Piedra Blanca, San Blas / Waxiewe",
-        "Other names": "Waxiewe",
-        "Ecological/Environmental": "Important ecosystem and site of tourism conflicts; also known for the \"jejenes\" biting insects",
-        "Cultural Elements": "Pilgrimage site of the west for all communities, related to Grandmother Ocean. Important for baptisms and connected to the underworld and source of life",
-        "Socio-Political": "Small tourist hamlet with occasional disputes over encroachment onto Waxiewe, the white island off the shore of San Blas. Recently declared a protected sacred site in Mexico's Plan de Justicia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.301111, 21.529722]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Te'akata",
-        "Other names": "Birthplace of Grandfather Fire",
-        "Ecological/Environmental": "In the canyons of the Sierra Madre",
-        "Cultural Elements": "A sacred site for all communities",
-        "Socio-Political": "Contentious recently because of intercommunal conflict"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.114167, 22.158889]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Places and Items": "Real de Catorce",
-        "Other names": "N/A",
-        "Ecological/Environmental": "Town founded during the colonial silver mining boom; today a site of religious tourism",
-        "Cultural Elements": "San Francisco de Asís / Wixarika pilgrimages",
-        "Socio-Political": "N/A"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-100.886111, 23.690556]
-      }
-    }
-  ]
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"place_name": "Aguamilpa Dam",
+"other_names": "El Colorín, Colorado de la Mora, Salvador Allende (two Wixarika towns along periphery)",
+"ecological_environmental": "One of several dams built along Santiago River since the 1980s. El Cajón Dam is just a few kilometers downriver. Located in a key area ecologically where there are vast amounts of fresh water, mountains with biodiversity.",
+"cultural_elements": "N/A",
+"socio_political": "The dam displaced several Wixarika communities (many of these individuals would become residents of Colonia Zitakua in Tepic) and was built during the controversial Salinas de Gortari presidency"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-104.8025, 21.839167]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Bernalejo/Tamatsi Kauyumarie",
+"other_names": "Tamatsi Kauyumarie",
+"ecological_environmental": "A rare volcanic remnant in an area otherwise without volcanic archaeology. Was at one point ocean; there are shell remnants in the Sierra de Catorce.",
+"cultural_elements": "Important site of pilgrimage for the community of Tateikié and other Wixárika communities; a popular destination for new agers",
+"socio_political": "N/A"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-101.221667, 23.9925]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Kansas City Southern de Mexico (RR)",
+"other_names": "La Bestia",
+"ecological_environmental": "Traverses central Mexico up and through the US-Mx border",
+"cultural_elements": "Graffiti / migrants",
+"socio_political": "Movement of goods, post-NAFTA especially"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-100.487778, 28.713056]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Cerro del Quemado",
+"other_names": "Reu'unax+ and Paritikemai",
+"ecological_environmental": "Sierra of Catorce, site of colonial mining, forests continue to struggle to grow",
+"cultural_elements": "Site where the sun was born after a boy sacrificed himself",
+"socio_political": "Site of continued contested land use and First Majestic Silver mining project under moratorium"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-100.913611, 23.674167]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Estación Wadley",
+"other_names": "N/A",
+"ecological_environmental": "Located near the endemic areas where peyote grows",
+"cultural_elements": "Site of New Age tourism and 'Willies' that take tourists to extract peyote",
+"socio_political": "Many of the land privatizations occurring in the name of peyote conservation are springing from negotiations with ejidatarios in this town and municipality"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-100.987222, 23.611111]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Island of Mezcala",
+"other_names": "Xapawiyemetá",
+"ecological_environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers",
+"cultural_elements": "A sacred place for the Wixarika and Coca communities; recently also a location of New Age ritual",
+"socio_political": "Location of a colonial presidio that kept its prisoners in horrific conditions. The presidio was seized by independence insurgents in a battle marking the beginning of Mexico's war of independence"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-103.024167, 20.290833]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Island of the Scorpion / Isla de los Alacranes",
+"other_names": "Xapawiyemetá",
+"ecological_environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers. The island is now being included in management plans under the Plan de Justicia Wixárika",
+"cultural_elements": "Since the late 20th century, the principal destination of Wixarika pilgrimages to Xapawiyemetá",
+"socio_political": "Wixarika offerings are mixed with an increased presence of non-Indigenous \"pilgrims\" offerings. In May 2024, an obelisk was placed by the government to make visible the site as a Wixarika sacred place"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-103.17, 20.251389]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Piedra Blanca, San Blas / Waxiewe",
+"other_names": "Waxiewe",
+"ecological_environmental": "Important ecosystem and site of tourism conflicts; also known for the \"jejenes\" biting insects",
+"cultural_elements": "Pilgrimage site of the west for all communities, related to Grandmother Ocean. Important for baptisms and connected to the underworld and source of life",
+"socio_political": "Small tourist hamlet with occasional disputes over encroachment onto Waxiewe, the white island off the shore of San Blas. Recently declared a protected sacred site in Mexico's Plan de Justicia"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-105.301111, 21.529722]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Te'akata",
+"other_names": "Birthplace of Grandfather Fire",
+"ecological_environmental": "In the canyons of the Sierra Madre",
+"cultural_elements": "A sacred site for all communities",
+"socio_political": "Contentious recently because of intercommunal conflict"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-104.114167, 22.158889]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"place_name": "Real de Catorce",
+"other_names": "N/A",
+"ecological_environmental": "Town founded during the colonial silver mining boom; today a site of religious tourism",
+"cultural_elements": "San Francisco de Asís / Wixarika pilgrimages",
+"socio_political": "N/A"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [-100.886111, 23.690556]
+}
+}
+]
 }
