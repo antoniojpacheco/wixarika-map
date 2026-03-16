@@ -19,12 +19,6 @@ body {
   font-size: 18px;
 }
 
-#header h3 {
-  margin: 0;
-  font-size: 14px;
-  color: #555;
-}
-
 #map {
   width: 100%;
   height: 80vh;
