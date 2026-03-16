@@ -2,7 +2,7 @@
   mapboxgl.accessToken = 'pk.eyJ1IjoiYW50b25pb2pwYWNoZWNvIiwiYSI6ImNtaDljaXpjeTEycmYybnEzaXdrYThnZG8ifQ.xeHV0ObSbpRUSEwukMU97g';
   const map = new mapboxgl.Map({
           container: 'map', // container ID
-          style: 'https://github.com/antoniojpacheco/c183-webmap/edit/main/script.js',
+          style: 'https://github.com/antoniojpacheco/wixarika-map/edit/main/script.js',
           center: [-122.27, 37.8], // starting position [lng, lat]. Note that lat must be set between -90 and 90
           zoom: 9 // starting zoom
       });
