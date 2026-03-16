@@ -10,7 +10,7 @@
   map.on('load', function() {
       map.addSource('points-data', {
             type: 'geojson',
-            data: 'https://raw.githubusercontent.com/antoniojpacheco/wixarika-map/refs/heads/main/map-data.geojson?token=GHSAT0AAAAAADX4WLQAMBK547LW3CCDIVD22NXSJJA'
+            data: 'https://raw.githubusercontent.com/antoniojpacheco/wixarika-map/refs/heads/main/data/map-data.geojson'
       });
 
      map.addLayer({
