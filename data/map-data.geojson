@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zitakua / Tepic",
-        "other_names": null,
-        "ecological": null,
-        "cultural": null,
-        "socio_political": null
+        "Places and Items": "Zitakua/Tepic",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
@@ -18,11 +18,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zacatecas",
-        "other_names": null,
-        "ecological": null,
-        "cultural": null,
-        "socio_political": null
+        "Places and Items": "Zacatecas",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
@@ -32,25 +32,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Villa de Ramos / Tatei Matinieri",
-        "other_names": "Tatei Matinieri",
-        "ecological": null,
-        "cultural": null,
-        "socio_political": null
+        "Places and Items": "Villa de Ramos/Tatei Matinieri",
+        "Other names": "Tatei Matinieri",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-101.916944, 22.8325]
+        "coordinates": [-101.916944, 22.832500]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Villa de Guadalupe",
-        "other_names": "Gustavo Madero / Mexico City",
-        "ecological": null,
-        "cultural": null,
-        "socio_political": null
+        "Places and Items": "Villa de Guadalupe",
+        "Other names": "Villa Gustavo Madero/Mexico City",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
@@ -60,85 +60,127 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tuxpan de Bolaños",
-        "other_names": "Karuxi",
-        "ecological": null,
-        "cultural": null,
-        "socio_political": null
+        "Places and Items": "Tuxpán de Bolaños",
+        "Other names": "Karuxi",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.0125, 21.875833]
+        "coordinates": [-104.012500, 21.875833]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Teuchitlán / Guachimontones",
-        "other_names": null,
-        "ecological": "Archaeological findings indicate this could have been Xapawiyemetá",
-        "cultural": null,
-        "socio_political": null
+        "Places and Items": "Teuchitlán/Guachimontones",
+        "Other names": "N/A",
+        "Ecological/Environmental": "Arqueological findings indicate this could too have been Xapawiyemetá",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-103.8325, 20.698056]
+        "coordinates": [-103.832500, 20.698056]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bancos de San Hipólito",
-        "other_names": "Uweni Muyewe",
-        "ecological": null,
-        "cultural": null,
-        "socio_political": "Recently gained autonomous status after separation from Tateikié; surrounded by Mestizo and O'dam communities"
+        "Places and Items": "Santa Catarina Cuexcomatitlán",
+        "Other names": "Tuapurie",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.3925, 22.444444]
+        "coordinates": [-104.109167, 22.155556]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake Chapala",
-        "other_names": "Xapawiyemetá",
-        "ecological": "Largest lake in Mexico; affected by industrial discharge causing ecological crises",
-        "cultural": "Sacred Wixarika pilgrimage site; associated with the great flood",
-        "socio_political": "Real estate pressure, agroindustry, and violence"
+        "Places and Items": "San Sebastián Teponohuaxtlán",
+        "Other names": "Waut+a",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-103.05, 20.220833]
+        "coordinates": [-104.062778, 22.082778]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Bernalejo / Tamatsi Kauyumarie",
-        "other_names": "Tamatsi Kauyumarie",
-        "ecological": "Volcanic remnant with marine fossils in Sierra de Catorce",
-        "cultural": "Important pilgrimage site; also attracts New Age tourism",
-        "socio_political": null
+        "Places and Items": "San Andrés Cohamiata",
+        "Other names": "Tateikié",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-101.221667, 23.9925]
+        "coordinates": [-104.242222, 22.189444]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cerro del Quemado",
-        "other_names": "Reu'unax+ / Paritikemai",
-        "ecological": "Mining impacts and limited forest regrowth",
-        "cultural": "Site where the sun was born in Wixarika tradition",
-        "socio_political": "Contested land use; mining project under moratorium"
+        "Places and Items": "Salto de Juanacatlán",
+        "Other names": "The Mexican Niagara",
+        "Ecological/Environmental": "Located on the Santiago River in what is now the Metropolitan Region of Guadalajara, a site of major biodiversity that is today amongst the most polluted rivers in the hemisphere",
+        "Cultural Elements": "Early tourist destination for Guadalajara residents. A site of picnics and marriage proposals",
+        "Socio-Political": "Site of major industrial production after 1965 economic trade agreements that pushed siting industry in this region. Silicon Valley, textiles, assembly plants"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-100.913611, 23.674167]
+        "coordinates": [-103.175556, 20.513056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Resorts Riviera Nayarit",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.467331, 20.808681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Privatized land (peyote extractavism)",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.221667, 23.992500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Bancos de San Hipólito",
+        "Other names": "Uweni Muyewe",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "Recently gained its autonomous stature after years of separation from Tateikié and being labeled an \"annex\". Surrounded by Mestizo and O'dam communities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.392500, 22.444444]
       }
     }
   ]
