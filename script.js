@@ -38,6 +38,7 @@
                   <p><strong>Ecological/Environmental:</strong> ${properties["Ecological/Environmental"] || ""}</p>
                   <p><strong>Cultural Elements:</strong> ${properties["Cultural Elements"] || ""}</p>
                   <p><strong>Socio-Political:</strong> ${properties["Socio-Political"] || ""}</p>
+                  <p><strong>Image:</strong> ${properties["image"] || ""}</p>
               </div>
     `      ;
         // Build and attach popup to coordinates
