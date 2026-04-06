@@ -40,14 +40,14 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-101.916944, 22.8325]
+        "coordinates": [-101.916944, 22.832500]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "Places and Items": "Villa de Guadalupe",
-        "Other names": "Villa Gustavo Madero / Mexico City",
+        "Other names": "Villa Gustavo Madero/Mexico City",
         "Ecological/Environmental": "N/A",
         "Cultural Elements": "N/A",
         "Socio-Political": "N/A"
@@ -68,21 +68,21 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.0125, 21.875833]
+        "coordinates": [-104.012500, 21.875833]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Places and Items": "Teuchitlán / Guachimontones",
+        "Places and Items": "Teuchitlán/Guachimontones",
         "Other names": "N/A",
-        "Ecological/Environmental": "Archaeological findings suggest this may be Xapawiyemetá",
+        "Ecological/Environmental": "Arqueological findings indicate this could too have been Xapawiyemetá",
         "Cultural Elements": "N/A",
         "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-103.8325, 20.698056]
+        "coordinates": [-103.832500, 20.698056]
       }
     },
     {
@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Places and Items": "San Sebastián Teponahuaxtlán",
+        "Places and Items": "San Sebastián Teponohuaxtlán",
         "Other names": "Waut+a",
         "Ecological/Environmental": "N/A",
         "Cultural Elements": "N/A",
@@ -132,9 +132,9 @@
       "properties": {
         "Places and Items": "Salto de Juanacatlán",
         "Other names": "The Mexican Niagara",
-        "Ecological/Environmental": "Heavily polluted section of the Santiago River with severe ecological degradation.",
-        "Cultural Elements": "Former tourist and recreation site for Guadalajara residents.",
-        "Socio-Political": "Industrial development after 1965; textile and assembly plant expansion."
+        "Ecological/Environmental": "Located on the Santiago River in what is now the Metropolitan Region of Guadalajara, a site of major biodiversity that is today amongst the most polluted rivers in the hemisphere",
+        "Cultural Elements": "Early tourist destination for Guadalajara residents. A site of picnics and marriage proposals",
+        "Socio-Political": "Site of major industrial production after 1965 economic trade agreements that pushed siting industry in this region. Silicon Valley, textiles, assembly plants"
       },
       "geometry": {
         "type": "Point",
@@ -174,13 +174,13 @@
       "properties": {
         "Places and Items": "Lake Chapala",
         "Other names": "Xapawiyemetá",
-        "Ecological/Environmental": "Mexico’s largest lake, affected by agricultural runoff, industrial discharge, and public health impacts.",
-        "Cultural Elements": "Major Wixárika sacred pilgrimage site associated with the great flood.",
-        "Socio-Political": "Real estate expansion, land-use change, agro-industry pressures."
+        "Ecological/Environmental": "The largest lake in Mexico, Chapala is shaped by the convergence of the Lerma-Santiago river system, linking central and western Mexico, and occupying the shorelines of both Jalisco and Michoacán. Heavily influenced by agricultural and fishing communities of Nawatl, Coca, and Mestizo backgrounds. Decades of industrial discharge into the riversystem have brought about recurring ecological crises for Chapala that range from plagues of algae to high levels of cancer, kidney and skin diseases amongst the local populations",
+        "Cultural Elements": "Xapawiyemetá, the Waters of the South, is one of the principal Wixarika sacred pilgrimage sites and the place where the great flood was believed to have been centered",
+        "Socio-Political": "Real estate encroachment, land use change, agroindustry, violence"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-103.05, 20.220833]
+        "coordinates": [-103.050000, 20.220833]
       }
     },
     {
@@ -194,7 +194,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-103.893611, 22.63]
+        "coordinates": [-103.893611, 22.630000]
       }
     },
     {
@@ -203,12 +203,250 @@
         "Places and Items": "Hauxa Manaká, Cerro Gordo",
         "Other names": "Hauxa Manaká",
         "Ecological/Environmental": "N/A",
-        "Cultural Elements": "One of the five key Wixárika pilgrimage sites.",
+        "Cultural Elements": "One of the five key sacred pilgrimage places in Wixarika tradition",
         "Socio-Political": "N/A"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-104.707778, 24.321389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Guadalajara",
+        "Other names": "Atemajac",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.346944, 20.676944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Estación Vanegas",
+        "Other names": "N/A",
+        "Ecological/Environmental": "Declared an oasis of the highplateaus of San Luis Potosí, part of the natural and cultural region",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.948333, 23.882500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Estación Catorce",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.984444, 23.687500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "El Valle/Valparaíso",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.564444, 22.773611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Compostela",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.898056, 21.239722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Colotlán",
+        "Other names": "N/A",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.265278, 22.113056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Bancos de San Hipólito",
+        "Other names": "Uweni Muyewe",
+        "Ecological/Environmental": "N/A",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "Recently gained its autonomous stature after years of separation from Tateikié and being labeled an annex. Surrounded by Mestizo and O'dam communities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.392500, 22.444444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Aguamilpa Dam",
+        "Other names": "El Colorín, Colorado de la Mora, Salvador Allende (two Wixarika towns along periphery)",
+        "Ecological/Environmental": "One of several dams built along Santiago River since the 1980s. El Cajón Dam is just a few kilometers downriver. Located in a key area ecologically where there are vast amounts of fresh water, mountains with biodiversity.",
+        "Cultural Elements": "N/A",
+        "Socio-Political": "The dam displaced several Wixarika communities (many of these individuals would become residents of Colonia Zitakua in Tepic) and was built during the controversial Salinas de Gortari presidency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.802500, 21.839167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Bernalejo/Tamatsi Kauyumarie",
+        "Other names": "Tamatsi Kauyumarie",
+        "Ecological/Environmental": "A rare volcanic remnant in an area otherwise without volcanic archaeology. Was at one point ocean; there are shell remnants in the Sierra de Catorce.",
+        "Cultural Elements": "Important site of pilgrimage for the community of Tateikié and other Wixárika communities; a popular destination for new agers",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.221667, 23.992500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Kansas City Southern de Mexico (RR)",
+        "Other names": "la bestia",
+        "Ecological/Environmental": "Traverses central Mexico up and through the US-Mx border",
+        "Cultural Elements": "Graffiti / migrants",
+        "Socio-Political": "Movement of goods, post-NAFTA especially"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.487778, 28.713056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Cerro del Quemado",
+        "Other names": "Reu'unax+ and Paritikemai",
+        "Ecological/Environmental": "Sierra of Catorce, site of colonial mining, forests continue to struggle to grow",
+        "Cultural Elements": "Site where the sun was born after a boy sacrificed himself",
+        "Socio-Political": "Site of continued contested land use and First Majestic Silver mining project under moratorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.913611, 23.674167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Estación Wadley",
+        "Other names": "N/A",
+        "Ecological/Environmental": "Located near the endemic areas where peyote grows",
+        "Cultural Elements": "Site of New Age tourism and 'Willies' that take tourists to extract peyote",
+        "Socio-Political": "Many of the land privatizations occurring in the name of peyote conservation are springing from negotiations with ejidatarios in this town and municipality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.987222, 23.611111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Island of Mezcala",
+        "Other names": "Xapawiyemetá",
+        "Ecological/Environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers",
+        "Cultural Elements": "A sacred place for the Wixarika and Coca communities; recently also a location of New Age ritual",
+        "Socio-Political": "Location of a colonial presidio that kept its prisoners in horrific conditions. The presidio was seized by independence insurgents in a battle marking the beginning of Mexico's war of independence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.024167, 20.290833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Island of the Scorpion / Isla de los Alacranes",
+        "Other names": "Xapawiyemetá",
+        "Ecological/Environmental": "Located in Lake Chapala, itself under high environmental alert due to the convergence of contaminants from the Lerma and Santiago rivers. The island is now being included in management plans under the Plan de Justicia Wixárika",
+        "Cultural Elements": "Since the late 20th century, the principal destination of Wixarika pilgrimages to Xapawiyemetá",
+        "Socio-Political": "Wixarika offerings are mixed with an increased presence of non-Indigenous \"pilgrims\" offerings. In May 2024, an obelisk was placed by the government to make visible the site as a Wixarika sacred place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.170000, 20.251389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Piedra Blanca, San Blas / Waxiewe",
+        "Other names": "Waxiewe",
+        "Ecological/Environmental": "Important ecosystem and site of tourism conflicts; also known for the \"jejenes\" biting insects",
+        "Cultural Elements": "Pilgrimage site of the west for all communities, related to Grandmother Ocean. Important for baptisms and connected to the underworld and source of life",
+        "Socio-Political": "Small tourist hamlet with occasional disputes over encroachment onto Waxiewe, the white island off the shore of San Blas. Recently declared a protected sacred site in Mexico's Plan de Justicia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.301111, 21.529722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Te'akata",
+        "Other names": "Birthplace of Grandfather Fire",
+        "Ecological/Environmental": "In the canyons of the Sierra Madre",
+        "Cultural Elements": "A sacred site for all communities",
+        "Socio-Political": "Contentious recently because of intercommunal conflict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.114167, 22.158889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Places and Items": "Real de Catorce",
+        "Other names": "N/A",
+        "Ecological/Environmental": "Town founded during the colonial silver mining boom; today a site of religious tourism",
+        "Cultural Elements": "San Francisco de Asís / Wixarika pilgrimages",
+        "Socio-Political": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.886111, 23.690556]
       }
     }
   ]
