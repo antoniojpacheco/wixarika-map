@@ -39,6 +39,7 @@
                   <p><strong>Cultural Elements:</strong> ${properties["Cultural Elements"] || ""}</p>
                   <p><strong>Socio-Political:</strong> ${properties["Socio-Political"] || ""}</p>
                   <p><strong>Image:</strong> ${properties["Image"] || ""}</p>
+                  <img src="${feature.properties.image}" style="width:50%; border-radius:8px;">
               </div>
     `      ;
         // Build and attach popup to coordinates
