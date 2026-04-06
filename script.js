@@ -31,17 +31,18 @@
           const properties = e.features[0].properties;
 
           // Create popup content using the properties from the data
-           const popupContent = `
-              <div>
-                  <h3>${properties["Places and Items"] || ""}</h3>
-                  <p><strong>Other names:</strong> ${properties["Other names"] || ""}</p>
-                  <p><strong>Ecological/Environmental:</strong> ${properties["Ecological/Environmental"] || ""}</p>
-                  <p><strong>Cultural Elements:</strong> ${properties["Cultural Elements"] || ""}</p>
-                  <p><strong>Socio-Political:</strong> ${properties["Socio-Political"] || ""}</p>
-                  <p><strong>Image:</strong> ${properties["Image"] || ""}</p>
-                  <img src="${feature.properties.image}" style="width:50%; border-radius:8px;">
-              </div>
-    `      ;
+          const popupContent = `
+            <div>
+                <h3>${properties["Places and Items"] || ""}</h3>
+                <p><strong>Other names:</strong> ${properties["Other names"] || ""}</p>
+                <p><strong>Ecological/Environmental:</strong> ${properties["Ecological/Environmental"] || ""}</p>
+                <p><strong>Cultural Elements:</strong> ${properties["Cultural Elements"] || ""}</p>
+                <p><strong>Socio-Political:</strong> ${properties["Socio-Political"] || ""}</p>
+
+                <img src="${properties["Image"] || ""}" style="width:100%; border-radius:8px; margin-top:10px;">
+          </div>
+          `;
+        
         // Build and attach popup to coordinates
           new mapboxgl.Popup()
               .setLngLat(coordinates)
